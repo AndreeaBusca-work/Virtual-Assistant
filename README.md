@@ -26,3 +26,4 @@ made for users of all skill levels
 
 This app is designed for general users, from students and content creators to
 professionals from various fields.
+
