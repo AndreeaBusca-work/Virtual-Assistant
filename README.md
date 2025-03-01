@@ -10,8 +10,7 @@ to save time, enhance organization, and provide intelligent recommendations,
 making daily workflows more efficient.
 The key features of the app and their benefits are as follows.
 
-• searching for information on the web and receiving personalized recom-
-mendations based on past searches, thus simplifying information retrieval,
+• searching for information on the web and receiving personalized recommendations based on past searches, thus simplifying information retrieval,
 
 • summarization of large blocks of text into concise, readable summaries,
 
@@ -20,8 +19,7 @@ mendations based on past searches, thus simplifying information retrieval,
 • image to PDF conversion ideal for a quick document creation without
 third-party software,
 
-• audio guidance for an enhanced accessibility and creation of a conversa-
-tional experience
+• audio guidance for an enhanced accessibility and creation of a conversational experience
 
 • an intuitive user-friendly GUI with well-organized menus and controls
 made for users of all skill levels
